@@ -5,3 +5,8 @@ matplotlib
 scikit-learn
 setuptools
 #-e.
+setuptools
+catboost
+xgboost
+dill
+flask
