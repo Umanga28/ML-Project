@@ -39,6 +39,7 @@ class CustomData:
                 "race_ethnicity":[self.race_ethnicity],
                 "parental_level_of_education":[self.parental_level_of_education],
                 "lunch":[self.lunch],
+                "test_preparation_course":[self.test_preparation_course],
                 "reading_score":[self.reading_score],
                 "writing_score":[self.writing_score]
             }
